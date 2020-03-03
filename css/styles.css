@@ -9,6 +9,60 @@ p{
   max-width: 50%;
 }
 
+hr{
+  max-width: 25%;
+}
+
+a{
+  color: white;
+}
+
+i{
+  color: #222831;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+li{
+  font-size: 25px;
+}
+
+.fa-linkedin{
+  color: white;
+  margin-right: 5px;
+}
+
+.fa-envelope-square{
+  color: white;
+  margin-left: 5px;
+}
+
+.fa-envelope-square:hover{
+  color: #393e46;
+}
+
+.fa-linkedin:hover {
+  color: #393e46;
+}
+
+.fa-java{
+  background-color: #222831;
+  color: white;
+}
+
+.skills{
+  max-width: 420px;
+  min-width: 350px;
+  margin: 0 auto 0 auto;
+}
+
+.skills-list-right{
+  padding-left: 60px;
+}
+
 .title-img{
   border-radius: 100%;
   border: 5px solid #393e46;
@@ -47,4 +101,13 @@ p{
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.past-experiences{
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+
+.contact-me{
+  padding: 20px 0 20px 0;
 }
